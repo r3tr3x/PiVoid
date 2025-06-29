@@ -1,0 +1,10 @@
+PiVoid/
+├── assets/                # Wallpaper previews and samples
+├── src/                   # App source code
+│   ├── ai/                # AI scripts (for future generation/search)
+│   ├── ui/                # User interface files
+│   └── backend/           # If you connect to a server
+├── app.config.json        # (Optional) Configuration file
+├── README.md              # Project overview
+├── .gitignore             # Git ignore rules
+├── LICENSE                # Your project license
